@@ -1,3 +1,5 @@
+> Due to our legacy code we had to fork phing to support Symfony 2.8 in combination with PHP >=7.1. This fork can be removed when either Symfony is updated to 3.x/4.x OR PHP >=7.1 is available on all machines.
+
 # P     H     I     N     G
 
   [![Build Status](https://travis-ci.org/phingofficial/phing.png?branch=master)](https://travis-ci.org/phingofficial/phing) [![codecov](https://codecov.io/gh/phingofficial/phing/branch/master/graph/badge.svg)](https://codecov.io/gh/phingofficial/phing)
